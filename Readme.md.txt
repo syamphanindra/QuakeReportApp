@@ -1,0 +1,1 @@
+This is QuakeReportApp gives latest earthquake details like magnitude,location and other details.
